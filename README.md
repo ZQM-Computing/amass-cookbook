@@ -35,6 +35,8 @@ OSINT practitioners who map subdomains and infrastructure passively.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-passive-enum` | Passive enumeration with no active probing |
